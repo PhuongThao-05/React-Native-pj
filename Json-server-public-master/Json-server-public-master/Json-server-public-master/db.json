@@ -1,0 +1,568 @@
+{
+  "class": [
+    {
+      "id": "893f02c7-f1fc-4958-9b63-7cc2d56f32c2",
+      "totalStudent": 38,
+      "supervising_Teacher": "Hà Ngọc Sơn",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/aislinnkelly_128.jpg"
+    },
+    {
+      "id": "38f609e1-f98f-4281-83ec-4301d6095b3c",
+      "totalStudent": 24,
+      "supervising_Teacher": "Phạm Thành Nhân",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/toddrew_128.jpg"
+    },
+    {
+      "id": "c9ad2764-7b7f-4b3b-849d-c42c610a3173",
+      "totalStudent": 40,
+      "supervising_Teacher": "Lê Mai Khôi",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/victor_haydin_128.jpg"
+    },
+    {
+      "id": "76ab4657-6203-4b46-ac75-e01a8de498a0",
+      "totalStudent": 15,
+      "supervising_Teacher": "Phan Trang Anh",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/devankoshal_128.jpg"
+    },
+    {
+      "id": "00b55bde-6d40-495f-85b1-0fc68cf98976",
+      "totalStudent": 8,
+      "supervising_Teacher": "Ngô Hồng Phúc",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/kushsolitary_128.jpg"
+    },
+    {
+      "id": "927fb9bb-0c64-43f7-8d88-3873b62de0f9",
+      "totalStudent": 5,
+      "supervising_Teacher": "Phùng Việt Dũng",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/sainraja_128.jpg"
+    },
+    {
+      "id": "2701af47-2aa6-46c6-9853-1886fe1eb9d0",
+      "totalStudent": 29,
+      "supervising_Teacher": "Tăng Yến Hồng",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/notbadart_128.jpg"
+    },
+    {
+      "id": "4a370e6e-626f-4627-878c-22964c554a5f",
+      "totalStudent": 15,
+      "supervising_Teacher": "Dương Tuệ Lâm",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/geshan_128.jpg"
+    },
+    {
+      "id": "ce453531-a256-43a8-b818-e0670e028453",
+      "totalStudent": 13,
+      "supervising_Teacher": "Hà Quang Trường",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/noufalibrahim_128.jpg"
+    },
+    {
+      "id": "98ed55f5-6679-4361-b500-7be6f4be2462",
+      "totalStudent": 26,
+      "supervising_Teacher": "Tô Ngọc Vy",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/lvovenok_128.jpg"
+    },
+    {
+      "id": "d8493c31-8714-4f73-b032-6c5981e3e9e5",
+      "totalStudent": 10,
+      "supervising_Teacher": "Dương Thanh Huy",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/shoaib253_128.jpg"
+    },
+    {
+      "id": "c5366e19-fe95-4282-b530-cd7bdfe30e79",
+      "totalStudent": 7,
+      "supervising_Teacher": "Vũ Ðức Bằng",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/ahmetsulek_128.jpg"
+    },
+    {
+      "id": "3e7a0e1b-698a-4675-b8fe-9110cdfef48c",
+      "totalStudent": 40,
+      "supervising_Teacher": "Nguyễn Gia Khiêm",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/iamjdeleon_128.jpg"
+    },
+    {
+      "id": "d163a8cf-d798-46d9-9bb8-dc2492b7c047",
+      "totalStudent": 16,
+      "supervising_Teacher": "Trương Kim Liên",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/aleclarsoniv_128.jpg"
+    },
+    {
+      "id": "926142bd-463b-4932-bded-3498160609e2",
+      "totalStudent": 34,
+      "supervising_Teacher": "Mai Kim Xuyến",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/andrea211087_128.jpg"
+    },
+    {
+      "id": "da87576f-9b11-4d41-8676-471a7e98f924",
+      "totalStudent": 25,
+      "supervising_Teacher": "Vũ Minh Phương",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/geran7_128.jpg"
+    },
+    {
+      "id": "f2a8f660-4e95-42a3-b8fb-8ed696a92617",
+      "totalStudent": 34,
+      "supervising_Teacher": "Hồ Hải Thụy",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/darylws_128.jpg"
+    },
+    {
+      "id": "a02a9bea-c00b-49d1-b00e-1e1612ffb9af",
+      "totalStudent": 8,
+      "supervising_Teacher": "Phạm Thanh Tuấn",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/aka_james_128.jpg"
+    },
+    {
+      "id": "c6f00d30-617e-4699-a794-e29124a3f8e9",
+      "totalStudent": 38,
+      "supervising_Teacher": "Vũ Quỳnh Hương",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/okseanjay_128.jpg"
+    },
+    {
+      "id": "fe21caf9-6a85-4683-a5aa-02b596cb6628",
+      "totalStudent": 27,
+      "supervising_Teacher": "Dương Thanh Việt",
+      "avatar_Teacher": "https://cdn.fakercloud.com/avatars/kaspernordkvist_128.jpg"
+    }
+  ],
+  "students": [
+    {
+      "class_id": "893f02c7-f1fc-4958-9b63-7cc2d56f32c2",
+      "id": "2687ea91-dbcc-4f9e-8d51-6b1828555533",
+      "name": "Đặng Anh Minh",
+      "sex": "Male to female transsexual woman",
+      "medium_score": 9,
+      "avatar": "https://cdn.fakercloud.com/avatars/edhenderson_128.jpg"
+    },
+    {
+      "class_id": "38f609e1-f98f-4281-83ec-4301d6095b3c",
+      "id": "e62f3490-decd-4500-8871-06741581bb2e",
+      "name": "Lê Công Hiếu",
+      "sex": "Gender Variant",
+      "medium_score": 10,
+      "avatar": "https://cdn.fakercloud.com/avatars/keyuri85_128.jpg"
+    },
+    {
+      "class_id": "c9ad2764-7b7f-4b3b-849d-c42c610a3173",
+      "id": "f70aa22d-71e4-4e05-b18a-15f8f257c567",
+      "name": "Nguyễn Bích Hảo",
+      "sex": "Two-spirit person",
+      "medium_score": 1,
+      "avatar": "https://cdn.fakercloud.com/avatars/byrnecore_128.jpg"
+    },
+    {
+      "class_id": "76ab4657-6203-4b46-ac75-e01a8de498a0",
+      "id": "4bdfbecb-e95f-4bd0-bad5-21167be50172",
+      "name": "Dương Quế Anh",
+      "sex": "Cis Male",
+      "medium_score": 5,
+      "avatar": "https://cdn.fakercloud.com/avatars/danpliego_128.jpg"
+    },
+    {
+      "class_id": "00b55bde-6d40-495f-85b1-0fc68cf98976",
+      "id": "ae8c5398-475c-4762-824a-1f750466afc6",
+      "name": "Đỗ Thanh Lâm",
+      "sex": "Male to Female",
+      "medium_score": 8,
+      "avatar": "https://cdn.fakercloud.com/avatars/batsirai_128.jpg"
+    },
+    {
+      "class_id": "927fb9bb-0c64-43f7-8d88-3873b62de0f9",
+      "id": "1adaa14c-f8fc-4a57-8efe-e33839cf5ccb",
+      "name": "Hoàng Thục Nhi",
+      "sex": "F2M",
+      "medium_score": 4,
+      "avatar": "https://cdn.fakercloud.com/avatars/jeremery_128.jpg"
+    },
+    {
+      "class_id": "2701af47-2aa6-46c6-9853-1886fe1eb9d0",
+      "id": "66343e98-065f-458e-a1cc-75386bdae84c",
+      "name": "Đào Quang Nhân",
+      "sex": "Man",
+      "medium_score": 1,
+      "avatar": "https://cdn.fakercloud.com/avatars/_yardenoon_128.jpg"
+    },
+    {
+      "class_id": "4a370e6e-626f-4627-878c-22964c554a5f",
+      "id": "198665b1-75ab-4393-8b81-8255ed1b08e6",
+      "name": "Trịnh Tuyết Mai",
+      "sex": "Trans",
+      "medium_score": 5,
+      "avatar": "https://cdn.fakercloud.com/avatars/yayteejay_128.jpg"
+    },
+    {
+      "class_id": "ce453531-a256-43a8-b818-e0670e028453",
+      "id": "c20efc72-ad44-462f-b8c2-545ab2618842",
+      "name": "Lâm Thúy My",
+      "sex": "Gender Fluid",
+      "medium_score": 10,
+      "avatar": "https://cdn.fakercloud.com/avatars/mbilalsiddique1_128.jpg"
+    },
+    {
+      "class_id": "98ed55f5-6679-4361-b500-7be6f4be2462",
+      "id": "5eae949e-f048-4a9e-acd1-0acc7682216b",
+      "name": "Lâm Sỹ Thực",
+      "sex": "Cisgender Man",
+      "medium_score": 9,
+      "avatar": "https://cdn.fakercloud.com/avatars/mbilalsiddique1_128.jpg"
+    },
+    {
+      "class_id": "d8493c31-8714-4f73-b032-6c5981e3e9e5",
+      "id": "d29fcf78-1f81-42fa-b733-b4d5c786f159",
+      "name": "Trần Mai Tâm",
+      "sex": "T* man",
+      "medium_score": 9,
+      "avatar": "https://cdn.fakercloud.com/avatars/krystalfister_128.jpg"
+    },
+    {
+      "class_id": "c5366e19-fe95-4282-b530-cd7bdfe30e79",
+      "id": "98f0b021-a5c8-4a9d-bb1b-aaf90d0197e2",
+      "name": "Tăng Mỹ Yến",
+      "sex": "Androgyne",
+      "medium_score": 6,
+      "avatar": "https://cdn.fakercloud.com/avatars/akmur_128.jpg"
+    },
+    {
+      "class_id": "3e7a0e1b-698a-4675-b8fe-9110cdfef48c",
+      "id": "12f58054-9956-4263-8d98-30d88374fd33",
+      "name": "Lâm Xuân xanh",
+      "sex": "Transgender Person",
+      "medium_score": 10,
+      "avatar": "https://cdn.fakercloud.com/avatars/surgeonist_128.jpg"
+    },
+    {
+      "class_id": "d163a8cf-d798-46d9-9bb8-dc2492b7c047",
+      "id": "a4b741a2-d672-4092-8244-3e6693a7f553",
+      "name": "Hồ Tấn Lợi",
+      "sex": "Woman",
+      "medium_score": 4,
+      "avatar": "https://cdn.fakercloud.com/avatars/jnmnrd_128.jpg"
+    },
+    {
+      "class_id": "926142bd-463b-4932-bded-3498160609e2",
+      "id": "08682047-d169-4322-9f3b-2496dbadb9ab",
+      "name": "Tăng Hải Thanh",
+      "sex": "Agender",
+      "medium_score": 9,
+      "avatar": "https://cdn.fakercloud.com/avatars/taylorling_128.jpg"
+    },
+    {
+      "class_id": "da87576f-9b11-4d41-8676-471a7e98f924",
+      "id": "588a271e-1e85-44bb-afd3-4a545c03bdcd",
+      "name": "Trần Kim Thảo",
+      "sex": "Trans Person",
+      "medium_score": 7,
+      "avatar": "https://cdn.fakercloud.com/avatars/osmanince_128.jpg"
+    },
+    {
+      "class_id": "f2a8f660-4e95-42a3-b8fb-8ed696a92617",
+      "id": "d15da380-20b8-41d7-b374-e25143263509",
+      "name": "Trần Hoài Phương",
+      "sex": "Transexual Woman",
+      "medium_score": 0,
+      "avatar": "https://cdn.fakercloud.com/avatars/akmur_128.jpg"
+    },
+    {
+      "class_id": "a02a9bea-c00b-49d1-b00e-1e1612ffb9af",
+      "id": "d97aafd3-c1cc-486e-a063-938e5d526987",
+      "name": "Hà Hải Thụy",
+      "sex": "Gender Variant",
+      "medium_score": 4,
+      "avatar": "https://cdn.fakercloud.com/avatars/flashmurphy_128.jpg"
+    },
+    {
+      "class_id": "c6f00d30-617e-4699-a794-e29124a3f8e9",
+      "id": "c38684a7-525e-456f-a3c0-7d9954a3e4db",
+      "name": "Lý Mỹ Khuyên",
+      "sex": "Pangender",
+      "medium_score": 7,
+      "avatar": "https://cdn.fakercloud.com/avatars/therealmarvin_128.jpg"
+    },
+    {
+      "class_id": "fe21caf9-6a85-4683-a5aa-02b596cb6628",
+      "id": "ce97d287-a68d-45ae-9215-ee414decc33e",
+      "name": "Nguyễn Tuấn Việt",
+      "sex": "Male to female trans woman",
+      "medium_score": 0,
+      "avatar": "https://cdn.fakercloud.com/avatars/svenlen_128.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "aa7682bd-f83f-4984-91e8-eb1b44cbfc1a",
+      "username": "HàNhi13",
+      "password": "ns5h3izzWJW6NMo",
+      "email": "MNhn_Phng@yahoo.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/overra_128.jpg"
+    },
+    {
+      "id": "9ba6f733-02a6-490c-8ffb-18c658c1f1ce",
+      "username": "AnDi25",
+      "password": "rQxTa3l2gPoU_TL",
+      "email": "HuyKhnh26@gmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/robbschiller_128.jpg"
+    },
+    {
+      "id": "8b1f00cd-dd76-40ef-a1d1-893e3de61735",
+      "username": "ThuViệt98",
+      "password": "GcPFNu6MAQvICEf",
+      "email": "nhDng.Trn@gmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/sweetdelisa_128.jpg"
+    },
+    {
+      "id": "4fdf4732-a8eb-4b36-a869-8c1abc74b25d",
+      "username": "BìnhMinh.Lâm7",
+      "password": "tjObe_LgaUknXzN",
+      "email": "QuThu_Tng@hotmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/helderleal_128.jpg"
+    },
+    {
+      "id": "5d470fd7-0c4c-4118-a0d0-2d2c55b9775a",
+      "username": "HuệÂn_Trần23",
+      "password": "hNl6V22mCY8QFrb",
+      "email": "HngNht_Phng59@gmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/dnezkumar_128.jpg"
+    },
+    {
+      "id": "cc0becc3-1311-419c-8ced-87d3e907b2f9",
+      "username": "HàGiang.Lý",
+      "password": "J3gznVWWASK4aI6",
+      "email": "HuLm42@gmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/lebinoclard_128.jpg"
+    },
+    {
+      "id": "e4f2a2d3-26a8-4532-9d45-79c772e6a600",
+      "username": "NgọcLan.Hà",
+      "password": "j6m12ALhnesnG40",
+      "email": "HnhLinh.Lm@hotmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/popey_128.jpg"
+    },
+    {
+      "id": "f42f8e0c-1c37-4342-8118-54f38d0c0a6f",
+      "username": "ÐôngVy.Đoàn",
+      "password": "7LjTeWIsFk0EP2g",
+      "email": "ThVinh30@yahoo.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/rahmeen_128.jpg"
+    },
+    {
+      "id": "3364305e-9321-41a3-9a86-51d9bac3d764",
+      "username": "QuỳnhHà_Mai26",
+      "password": "LP0UvmcERUm1w3X",
+      "email": "MnhTn.L10@gmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/tomas_janousek_128.jpg"
+    },
+    {
+      "id": "04fd12ce-0cac-48e8-b1a3-05cb7b5b706f",
+      "username": "quy123",
+      "password": "123456",
+      "email": "HngTr.Vng@hotmail.com",
+      "avatar": "https://cdn.fakercloud.com/avatars/increase_128.jpg"
+    },
+    {
+      "username": "1321312",
+      "password": "12321312",
+      "createdAt": 1697768964137,
+      "updatedAt": 1697768964137,
+      "id": "Lq-aCuc"
+    },
+    {
+      "username": "1321312",
+      "password": "12321312",
+      "createdAt": 1697769185527,
+      "updatedAt": 1697769185527,
+      "id": "54jVPIv"
+    },
+    {
+      "username": "quy123@gmail.com",
+      "password": "quy171123",
+      "createdAt": 1697769263495,
+      "updatedAt": 1697769263495,
+      "id": "f4CFRds"
+    },
+    {
+      "username": "quy123@gmail.com",
+      "password": "quy171123",
+      "createdAt": 1698501940659,
+      "updatedAt": 1698501940659,
+      "id": "uuIdVLc"
+    },
+    {
+      "username": "123123",
+      "password": "",
+      "createdAt": 1698588181053,
+      "updatedAt": 1698588181053,
+      "id": "qI-l2wa"
+    },
+    {
+      "username": "123123",
+      "password": "",
+      "createdAt": 1698588200048,
+      "updatedAt": 1698588200048,
+      "id": "1KetJKJ"
+    },
+    {
+      "username": "asas",
+      "password": "asasa",
+      "createdAt": 1698588759660,
+      "updatedAt": 1698588759660,
+      "id": "ZPqCldb"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1698589230630,
+      "updatedAt": 1698589230630,
+      "id": "W4k3dd2"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1698589233563,
+      "updatedAt": 1698589233563,
+      "id": "pW0x9rS"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1698589248521,
+      "updatedAt": 1698589248521,
+      "id": "84gKmyX"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1698589252825,
+      "updatedAt": 1698589252825,
+      "id": "QVnxZd3"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1698589254179,
+      "updatedAt": 1698589254179,
+      "id": "tJWgNbL"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1698589255463,
+      "updatedAt": 1698589255463,
+      "id": "MF07K2T"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1698589268654,
+      "updatedAt": 1698589268654,
+      "id": "JRJH1aN"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1698589269765,
+      "updatedAt": 1698589269765,
+      "id": "J6k2J4L"
+    },
+    {
+      "username": "123",
+      "password": "123",
+      "createdAt": 1698589341463,
+      "updatedAt": 1698589341463,
+      "id": "UMW8kuH"
+    },
+    {
+      "username": "13123",
+      "password": "12312",
+      "createdAt": 1698589427997,
+      "updatedAt": 1698589427997,
+      "id": "Iw3uAno"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1698589444796,
+      "updatedAt": 1698589444796,
+      "id": "lhv4z7Q"
+    },
+    {
+      "username": "1111",
+      "password": "1111",
+      "createdAt": 1699323216189,
+      "updatedAt": 1699323216189,
+      "id": "7vJV0nc"
+    },
+    {
+      "username": "0000",
+      "password": "0000",
+      "createdAt": 1699372943908,
+      "updatedAt": 1699372943908,
+      "id": "qUPTZ7n"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1699373102526,
+      "updatedAt": 1699373102526,
+      "id": "h4Sy2VQ"
+    },
+    {
+      "username": "0000",
+      "password": "0000",
+      "createdAt": 1699373115778,
+      "updatedAt": 1699373115778,
+      "id": "7mtVfoO"
+    },
+    {
+      "username": "",
+      "password": "",
+      "createdAt": 1699630820162,
+      "updatedAt": 1699630820162,
+      "id": "HnSmQTL"
+    },
+    {
+      "username": "0",
+      "password": "0",
+      "createdAt": 1699630832446,
+      "updatedAt": 1699630832446,
+      "id": "8TVWyut"
+    },
+    {
+      "username": "Hoai",
+      "password": "123",
+      "createdAt": 1701909263132,
+      "updatedAt": 1701909263132,
+      "id": "tPF9kvh"
+    },
+    {
+      "username": "Thao",
+      "password": "123",
+      "createdAt": 1702293725470,
+      "updatedAt": 1702293725470,
+      "id": "hqHKVXr"
+    },
+    {
+      "username": "Tra",
+      "password": "123",
+      "createdAt": 1702293952913,
+      "updatedAt": 1702293952913,
+      "id": "Q-ZmZqj"
+    },
+    {
+      "username": "Tra",
+      "password": "123",
+      "createdAt": 1702293970089,
+      "updatedAt": 1702293970089,
+      "id": "W7LKtU-"
+    },
+    {
+      "username": "Thao",
+      "password": "123",
+      "createdAt": 1703257701687,
+      "updatedAt": 1703257701687,
+      "id": "F37Bqfb"
+    },
+    {
+      "username": "Thao",
+      "password": "123",
+      "createdAt": 1703335487975,
+      "updatedAt": 1703335487975,
+      "id": "Y40Eysb"
+    }
+  ]
+}
